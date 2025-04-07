@@ -22,7 +22,7 @@ export default function Home() {
         <div className="min-h-screen w-full bg-white relative overflow-hidden">
             <div className="fixed inset-0 z-0">
                 <Image
-                    src="./public/valentine/17.png"
+                    src="../valentine/17.png"
                     alt="Background"
                     fill
                     className="object-cover sm:object-contain w-full h-full"
