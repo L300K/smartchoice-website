@@ -17,7 +17,7 @@ export default function Home() {
         <div className="h-screen w-full bg-gray-100 relative overflow-hidden">
             <div className="fixed inset-0 z-0">
                 <Image
-                    src="../valentine/07.png"
+                    src="/smartchoice-website/valentine/07.png"
                     alt="Background"
                     fill
                     className="object-cover sm:object-contain"
